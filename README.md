@@ -41,9 +41,4 @@ The specific file used in this task is:
 
 
 
- 🚀 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/titanic-eda-task.git
-cd titanic-eda-task
+ 🚀 How to Access the Dataset: The dataset is included in the repository under the data/ directory. 
